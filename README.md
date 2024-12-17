@@ -14,9 +14,7 @@ A senha gerada é exibida de forma destacada.
 Cópia Rápida
 
 Clique na senha para copiá-la automaticamente para a área de transferência.
-Design Responsivo e Moderno
 
-Visual limpo e adaptado para todos os dispositivos (PCs, tablets e celulares).
 🛠️ Tecnologias Utilizadas
 HTML5 - Estrutura da aplicação.
 CSS3 - Estilização com efeitos visuais elegantes.
@@ -24,8 +22,6 @@ JavaScript - Lógica para geração e cópia da senha.
 📂 Estrutura do Projeto
 O projeto é organizado da seguinte forma:
 
-lua
-Copiar código
 📦 src/
 │-- 📄 index.html       
 │-- 📁 styles/
